@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Environment and virtual environment directories
+env/
+venv/
+.venv/
+
+# IDE and editor directories/files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Log files
+*.log
+
+# macOS system files
+.DS_Store
+
+# FFmpeg generated files (example if specific files are temporary)
+*.tmp
+*.bak
+
+# Windows system files
+Thumbs.db
